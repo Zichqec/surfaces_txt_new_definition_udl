@@ -1,4 +1,4 @@
-# surfaces.txt new definition UDL
+# Surfaces.txt new definition UDL
 A simple UDL for highlighting surfaces.txt syntax in Notepad++.
 
 I think the colors are a little bright, but you can adjust them how you like.
